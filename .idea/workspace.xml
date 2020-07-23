@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad4b3dd1-fa20-41f3-b829-7230bb7ee5c4" name="Default Changelist" comment="" />
+    <list default="true" id="ad4b3dd1-fa20-41f3-b829-7230bb7ee5c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_test/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/static/quickstart/test.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1f55Yh6WMgvHc7WNU8Qp4UBdDgY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595495161794</updated>
       <workItem from="1595495164009" duration="4947000" />
-      <workItem from="1595501577294" duration="2383000" />
+      <workItem from="1595501577294" duration="3742000" />
     </task>
     <servers />
   </component>
@@ -45,9 +53,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="819" y="-920" width="621" height="735" key="find.popup" timestamp="1595495364489">
+    <state x="819" y="-920" width="621" height="735" key="find.popup" timestamp="1595510421259">
       <screen x="0" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="819" y="-920" width="621" height="735" key="find.popup/0.23.1680.979/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1595495364489" />
+    <state x="819" y="-920" width="621" height="735" key="find.popup/0.23.1680.979/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1595510421259" />
   </component>
 </project>
